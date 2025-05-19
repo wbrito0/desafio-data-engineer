@@ -9,7 +9,7 @@
 
   <p>Este repositório contém a solução para o desafio técnico de Engenharia de Dados e DataOps 2025.</p>
 
-  <h2>📁 Organização dos Dados</h2>
+  <h2>Organização dos Dados</h2>
 
   <p>Para executar corretamente os notebooks e scripts deste projeto, certifique-se de que os arquivos CSV estejam organizados da seguinte forma:</p>
 
@@ -24,10 +24,11 @@
 │   ├── olist_sellers_dataset.csv
 │   └── product_category_name_translation.csv
 ├── desafio-data-engineer.ipynb
+├── olist.db (será criado durante a execução)
 └── README.md
 </code></pre>
 
-  <h2>📌 Observações</h2>
+  <h2>Observações</h2>
 
   <ul>
     <li>Todos os arquivos CSV devem estar localizados na pasta <code>dados/</code> na raiz do projeto.</li>
@@ -35,7 +36,7 @@
     <li>Os dados utilizados são provenientes do <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Olist Dataset</a>.</li>
   </ul>
 
-  <h2>🚀 Executando o Projeto</h2>
+  <h2> Executando o Projeto</h2>
 
   <ol>
     <li>Clone este repositório:
@@ -48,7 +49,7 @@
     <li>Execute o notebook <code>desafio-data-engineer.ipynb</code> utilizando o Jupyter Notebook ou JupyterLab.</li>
   </ol>
 
-  <h2>🛠️ Tecnologias Utilizadas</h2>
+  <h2>Tecnologias Utilizadas</h2>
 
   <ul>
     <li>Python</li>
