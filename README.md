@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Desafio de Engenharia de Dados</title>
+
 </head>
 <body>
   <h1>Desafio de Engenharia de Dados</h1>
